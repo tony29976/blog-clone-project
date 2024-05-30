@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open about.html",
+            "file": "/Users/tonytemp/Downloads/DJANGO_COURSE_2.xx/20-Blog_Clone_Project/mysite/blog/templates/blog/about.html"
+        }
+    ]
+}
